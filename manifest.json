@@ -1,0 +1,25 @@
+{
+  "lang": "tr_TR",
+  "dir": "ltr",
+  "name": "LuaBot",
+  "description": "Gelişmiş Discord Bot",
+  "short_name": "Discord Bot Uygulamasını İndir",
+  "icons": [{
+    "src": "/luabot.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  },{
+    "src": "/luabot.png",
+    "sizes": "64x64",
+ "type": "image/png"
+  }, {
+    "src": "/luabot.png",
+    "sizes": "128x128",
+ "type": "image/png"
+  }],
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#30363b",
+  "theme_color": "#add8e6"
+}
